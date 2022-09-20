@@ -1,0 +1,35 @@
+import java.util.Scanner;
+
+
+public class brent {
+    public static void main(String[] args) {
+  
+      
+     String fname, lname, number;
+        
+
+    Scanner sc = new Scanner(System.in);
+    
+     
+  System.out.println("enter your firstname: ");
+     
+  fname = sc.nextLine();
+       
+    
+    System.out.println("enter your lastname: ");
+     
+   lname = sc.nextLine();
+        
+    
+    System.out.println("enter your phone number: ");
+   
+     number = sc.nextLine();
+        
+        
+System.out.print("My name is "+ fname +" "+ lname + " I am handsome"+" "+"My contact number is "+ number);
+        
+        
+ 
+   }
+
+}

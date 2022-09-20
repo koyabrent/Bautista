@@ -1,0 +1,29 @@
+class bautista {
+    
+public static void main(String[] args) {
+      
+ System.out.print("Get to know brent. \n");
+      
+  System.out.print("1. I am Brent Pogi \n");
+       
+ System.out.print("2. I am handsome \n");
+     
+   System.out.print("3. I am single ready to mingle \n");
+   
+     System.out.print("4. I am so good at programming \n");
+    
+    System.out.print("5. I am astig \n");
+      
+  System.out.print("6. I am pogi na sobrang pogi \n");
+     
+   System.out.print("7. I am animeirs \n");
+     
+   System.out.print("8. I am korean dramers \n");
+     
+   System.out.print("9. I am superman \n");
+     
+   System.out.print("10. I am a true stierssssss. \n");
+   
+ }
+
+}
